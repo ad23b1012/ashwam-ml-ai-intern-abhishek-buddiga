@@ -177,6 +177,14 @@ As an optional extension, a single stable output can be produced from multiple r
 This mirrors safe ensemble design in production systems.
 
 ---
+## How to Run
+
+From the repository root, run the stability analysis CLI:
+
+```bash
+python -m ashwam_eval --data ./data --out ./out
+```
+---
 
 ## Outputs
 
