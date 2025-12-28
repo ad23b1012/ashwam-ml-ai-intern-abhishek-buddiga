@@ -1,0 +1,5 @@
+{"journal_id": "B005", "agreement_rate": 0.8, "polarity_flip_rate": 0.0, "bucket_drift_rate": 0.6, "total_clusters": 5, "stable_clusters": 4}
+{"journal_id": "B003", "agreement_rate": 0.8, "polarity_flip_rate": 0.0, "bucket_drift_rate": 0.6, "total_clusters": 5, "stable_clusters": 4}
+{"journal_id": "B004", "agreement_rate": 1.0, "polarity_flip_rate": 0.2, "bucket_drift_rate": 0.4, "total_clusters": 5, "stable_clusters": 5}
+{"journal_id": "B002", "agreement_rate": 1.0, "polarity_flip_rate": 0.2, "bucket_drift_rate": 0.4, "total_clusters": 5, "stable_clusters": 5}
+{"journal_id": "B001", "agreement_rate": 0.8, "polarity_flip_rate": 0.0, "bucket_drift_rate": 0.6, "total_clusters": 5, "stable_clusters": 4}

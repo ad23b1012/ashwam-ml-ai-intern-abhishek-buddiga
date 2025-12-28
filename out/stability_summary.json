@@ -1,0 +1,7 @@
+{
+  "total_clusters": 25,
+  "stable_clusters": 22,
+  "overall_agreement_rate": 0.88,
+  "polarity_flip_events": 2,
+  "bucket_drift_events": 13
+}
